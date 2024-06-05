@@ -36,3 +36,6 @@ std_msgs/msg/UInt8
 std_srvs/srv/Empty
 std_srvs/srv/SetBool
 std_srvs/srv/Trigger
+sensor_msgs/msg/NavSatFix
+sensor_msgs/msg/NavSatStatus
+

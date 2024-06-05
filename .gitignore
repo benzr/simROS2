@@ -41,3 +41,9 @@ widgets.html
 
 # clion project files 
 .idea/
+
+# ROS2
+log
+install
+build
+
